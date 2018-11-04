@@ -1,2 +1,2 @@
 # features-model
-combining features in deep learning
+Combining features into one single feature to determine polarity sentiment analysis of movie review with LSTM
